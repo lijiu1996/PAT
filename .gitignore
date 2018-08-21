@@ -1,0 +1,7 @@
+# no know
+.DS_Store
+.vscode/
+
+*.out
+a.out.dSYM/
+data.txt
