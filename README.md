@@ -1,4 +1,4 @@
 # PAT
 solutions for ZJU-PAT test
 
-# just test for conflict
+My first learning on data structure and algorithms by sovling the PAT problems.
